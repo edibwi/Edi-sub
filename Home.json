@@ -1,0 +1,19 @@
+﻿{
+  "application": "Dialer",
+  "pageName": "Home",
+  "path": "/",
+  "domElements": {
+    "Numpad Button": { "id": "com.android.dialer:id/floating_action_button" },
+	"Button0": { "id": "com.android.dialer:id/zero" },
+	"Button1": { "id": "com.android.dialer:id/one" },
+	"Button2": { "id": "com.android.dialer:id/two" },
+	"Button3": { "id": "com.android.dialer:id/three" },
+	"Button4": { "id": "com.android.dialer:id/four" },
+	"Button5": { "id": "com.android.dialer:id/five" },
+	"Button6": { "id": "com.android.dialer:id/six" },
+	"Button7": { "id": "com.android.dialer:id/seven" },
+	"Button8": { "id": "com.android.dialer:id/eight" },
+	"Button9": { "id": "com.android.dialer:id/nine" },
+	"Dial Button": { "id": "com.android.dialer:id/dialpad_floating_action_button"}
+  }
+}
